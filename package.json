@@ -1,0 +1,20 @@
+{
+    "name": "@honocorporation/countrycodes",
+    "version": "1.0.0",
+    "description": "ISO2 and IS03 country codes and related entities",
+    "license": "MIT",
+    "repository": "https://github.com/HonoCorp/countrycodes",
+    "main": "index.js",
+    "keywords": [
+        "countrycodes",
+        "ISO2",
+        "ISO3",
+        "countries",
+        "hono"
+    ],
+    "author": {
+        "name": "Alois Odhiambo",
+        "email": "rayalois22@gmail.com",
+        "url": "https://github.com/rayalois22"
+    }
+}
