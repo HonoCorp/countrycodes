@@ -3,7 +3,6 @@
     "version": "1.0.2",
     "description": "ISO2 and IS03 country codes and related entities",
     "license": "MIT",
-    "type": "module",
     "repository": "https://github.com/HonoCorp/countrycodes",
     "main": "index.js",
     "keywords": [
@@ -17,5 +16,11 @@
         "name": "Alois Odhiambo",
         "email": "rayalois22@gmail.com",
         "url": "https://github.com/rayalois22"
+    },
+    "devDependencies": {
+        "@babel/cli": "^7.14.8",
+        "@babel/core": "^7.15.0",
+        "@babel/node": "^7.14.9",
+        "@babel/preset-env": "^7.15.0"
     }
 }
