@@ -3,12 +3,14 @@
     "version": "1.0.3",
     "description": "ISO2 and IS03 country codes and related entities",
     "license": "MIT",
-    "repository": "https://github.com/HonoCorp/countrycodes",
-    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/HonoCorp/countrycodes.git"
+    },
     "keywords": [
-        "countrycodes",
-        "ISO2",
-        "ISO3",
+        "country codes",
+        "ISO2 country codes",
+        "ISO3 country codes",
         "countries",
         "hono"
     ],
@@ -17,10 +19,7 @@
         "email": "rayalois22@gmail.com",
         "url": "https://github.com/rayalois22"
     },
-    "devDependencies": {
-        "@babel/cli": "^7.14.8",
-        "@babel/core": "^7.15.0",
-        "@babel/node": "^7.14.9",
-        "@babel/preset-env": "^7.15.0"
-    }
+    "files": [
+        "src"
+    ]
 }
