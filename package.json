@@ -1,6 +1,6 @@
 {
     "name": "@honocorporation/countrycodes",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "ISO2 and IS03 country codes and related entities",
     "license": "MIT",
     "type": "module",
