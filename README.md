@@ -1,7 +1,7 @@
 # @honocorporation/countrycodes  
 
-https://img.shields.io/npm/v/@honocorporation/countrycodes  
-
+![npm (scoped)](https://img.shields.io/npm/v/@honocorporation/countrycodes)
+![npm bundle size (scoped)](https://img.shields.io/bundlephobia/min/@honocorporation/countrycodes)  
 
 This package contains data on both ISO2 and IS03 country codes and related data such as continents, dialing codes, flags and currencies
 
@@ -18,4 +18,3 @@ import {CountryCodes} from "@honocorporation/countrycodes/src/CountryCodes.js";
 
 console.log(CountryCodes);  
 ```
-
