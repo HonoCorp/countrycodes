@@ -3,6 +3,7 @@
     "version": "1.0.0",
     "description": "ISO2 and IS03 country codes and related entities",
     "license": "MIT",
+    "type": "module",
     "repository": "https://github.com/HonoCorp/countrycodes",
     "main": "index.js",
     "keywords": [
