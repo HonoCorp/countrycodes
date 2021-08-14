@@ -14,7 +14,7 @@ npm install @honocorporation/countrycodes
 Import desired entities using JavaScript ES6 module syntax.  
 For example:  
 ```javascript  
-import {CountryCodes} from "@honocorporation/countrycodes/src/CountryCodes.js";
+import {CountryCodes} from "./node_modules/@honocorporation/countrycodes/index.js";
 
-console.log(CountryCodes);  
+console.log(CountryCodes);   
 ```

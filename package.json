@@ -3,7 +3,7 @@
     "version": "2.0.1",
     "description": "ISO2 and IS03 country codes and related entities",
     "license": "MIT",
-    "type": "module",
+    "main": "index.js",
     "repository": {
         "type": "git",
         "url": "https://github.com/HonoCorp/countrycodes.git"
@@ -20,7 +20,18 @@
         "email": "rayalois22@gmail.com",
         "url": "https://github.com/rayalois22"
     },
+    "scripts": {
+        "test": "npm run test",
+        "dev": "webpack --env environment=development --progress",
+        "prod": "webpack --env environment=production --progress",
+        "watch": "webpack --env environment=development --watch",
+        "build": "webpack --env environment=production --progress"
+    },
     "files": [
         "src"
-    ]
+    ],
+    "devDependencies": {
+        "webpack": "^5.50.0",
+        "webpack-cli": "^4.7.2"
+    }
 }
