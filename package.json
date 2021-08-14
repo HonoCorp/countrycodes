@@ -1,6 +1,6 @@
 {
     "name": "@honocorporation/countrycodes",
-    "version": "2.0.1",
+    "version": "3.0.0",
     "description": "ISO2 and IS03 country codes and related entities",
     "license": "MIT",
     "main": "index.js",
